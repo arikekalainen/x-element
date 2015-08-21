@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "declaration": false,
+        "noImplicitAny": false,
+        "removeComments": true,
+        "noLib": false
+    },
+    "compileOnSave": false,
+    "filesGlob": [
+        "./typescript/**/*.ts",
+        "./bower_components/type-definitions/*.d.ts",
+        "!./node_modules/**/*.ts"
+    ],
+    "files": [
+        "./typescript/x-element.ts",
+        "./bower_components/type-definitions/clientside.d.ts",
+        "./bower_components/type-definitions/serverside.d.ts"
+    ]
+}

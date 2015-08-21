@@ -1,0 +1,21 @@
+{
+  "name": "x-element",
+  "version": "0.0.1",
+  "description": "Polymer x-element",
+  "main": "gulpfile.js",
+  "license": "MIT",
+  "author": "Ari Kekalainen <ari.kekalainen@gmail.com>",
+  "scripts": {
+
+  },
+  "repository": {
+
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-typescript": "^2.8.0",
+    "run-sequence": "^1.1.2"
+  }
+}

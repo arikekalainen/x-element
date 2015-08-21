@@ -1,0 +1,23 @@
+{
+  "name": "x-element",
+  "description": "Basic Web Service: X element",
+  "version": "0.0.1",
+  "licence": "MIT",
+  "authors": [
+    "Ari Kekalainen <ari.kekalainen@gmail.com"
+  ],
+  "main": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "release",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#1.0.0",
+    "iron-input": "PolymerElements/iron-input#~1.0.5",
+    "type-definitions": "../../bas-web-ser-typedefinitions"
+  }
+}
